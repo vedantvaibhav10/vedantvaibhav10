@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="pacman"/>
 <div align="center">
 
 ## 👋Hi There Everyone! I'm Vedant Vaibhav
@@ -63,13 +64,13 @@
 
 ## 📊 GitHub Analytics
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNpM2h4dW00bzJnaDZmb2JybzNwbjFvd3h5aTU5MDVkMHc4dzJ4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQYavBPy5O4nU5JmWW/giphy.gif" width="200" alt="Data Analytics GIF"/>
+
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedantvaibhav10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantvaibhav10&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vedantvaibhav10&theme=tokyonight&show_icons=true&border_radius=10&count_private=true" alt="vedantvaibhav10's GitHub Stats" width="460" alt="data analytics"/>
 
+<br/>
 <br/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantvaibhav10&theme=tokyonight&border_radius=10" alt="shashi162003" />
@@ -82,6 +83,7 @@
 
 
 <div align="center">
+
 
 ## 🌱 Let's Collaborate!
 
